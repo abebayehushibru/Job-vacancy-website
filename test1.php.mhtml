@@ -1,0 +1,22 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost/1stphp/test1.php
+Subject: 
+Date: Tue, 17 Jan 2023 06:30:06 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--cek1xKaJeO9eUBAgKnMqqsY0kidFR3bhcPhKHKNxDq----"
+
+
+------MultipartBoundary--cek1xKaJeO9eUBAgKnMqqsY0kidFR3bhcPhKHKNxDq----
+Content-Type: text/html
+Content-ID: <frame-7E5B5B8355999EA70A2570BADFD00548@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost/1stphp/test1.php
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body><br>
+<b>Parse error</b>:  syntax error, unexpected 'array' (T_ARRAY) in <b>C:\xa=
+mpp\htdocs\1stphp\test1.php</b> on line <b>13</b><br>
+</body></html>
+------MultipartBoundary--cek1xKaJeO9eUBAgKnMqqsY0kidFR3bhcPhKHKNxDq------
